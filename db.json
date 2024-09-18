@@ -1,64 +1,64 @@
 {
-    "details": [
+    "bill": [
         {
             "ownerId": 1,
-            "Detalles": [
+            "billDetails": [
                 {
                     "id": 1,
                     "item": "Expensas Ordinarias",
-                    "descripcion": "Cuota mensual de mantenimiento de espacios comunes.",
-                    "precio": 15000,
-                    "porcentaje": "50.00"
+                    "description": "Cuota mensual de mantenimiento de espacios comunes.",
+                    "amount": 15000,
+                    "percentage": "50.00"
                 },
                 {
                     "id": 2,
                     "item": "Luz Común",
-                    "descripcion": "Gasto de electricidad en áreas comunes como pasillos y hall de entrada.",
-                    "precio": 3000,
-                    "porcentaje": "10.00"
+                    "description": "Gasto de electricidad en áreas comunes como pasillos y hall de entrada.",
+                    "amount": 3000,
+                    "percentage": "10.00"
                 }
             ],
             "date": "2024-09-01"
         },
         {
             "ownerId": 2,
-            "Detalles": [
+            "billDetails": [
                 {
                     "id": 3,
                     "item": "Agua",
-                    "descripcion": "Consumo de agua general del edificio.",
-                    "precio": 2500,
-                    "porcentaje": "8.33"
+                    "description": "Consumo de agua general del edificio.",
+                    "amount": 2500,
+                    "percentage": "8.33"
                 },
                 {
                     "id": 4,
                     "item": "Mantenimiento de Ascensores",
-                    "descripcion": "Revisión y reparación de ascensores.",
-                    "precio": 4000,
-                    "porcentaje": "13.33"
+                    "description": "Revisión y reparación de ascensores.",
+                    "amount": 4000,
+                    "percentage": "13.33"
                 }
             ],
-            "billingDate": "2024-09-01"
+            "date": "2024-09-01"
         },
         {
             "ownerId": 3,
-            "Detalles": [
+            "billDetails": [
                 {
                     "id": 5,
                     "item": "Jardinería",
-                    "descripcion": "Cuidado y mantenimiento de jardines y áreas verdes.",
-                    "precio": 2000,
-                    "porcentaje": "6.67"
+                    "description": "Cuidado y mantenimiento de jardines y áreas verdes.",
+                    "amount": 2000,
+                    "percentage": "6.67"
                 },
                 {
                     "id": 6,
                     "item": "Limpieza",
-                    "descripcion": "Servicios de limpieza en áreas comunes.",
-                    "precio": 3000,
-                    "porcentaje": "10.00"
+                    "description": "Servicios de limpieza en áreas comunes.",
+                    "amount": 3000,
+                    "percentage": "10.00"
                 }
             ],
-            "billingDate": "2024-09-01"
+            "date": "2024-09-01"
         }
     ]
 }
