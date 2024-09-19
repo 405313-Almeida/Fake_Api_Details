@@ -8,14 +8,22 @@
                     "item": "Expensas Ordinarias",
                     "description": "Cuota mensual de mantenimiento de espacios comunes.",
                     "amount": 15000,
-                    "percentage": "50.00"
+                    "percentage": "50.00",
+                    "createdDate": "2024-09-01T10:00:00",
+                    "createdUser": "admin",
+                    "lastUpdatedDate": "2024-09-01T10:00:00",
+                    "lastUpdatedUser": "admin"
                 },
                 {
                     "id": 2,
                     "item": "Luz Común",
                     "description": "Gasto de electricidad en áreas comunes como pasillos y hall de entrada.",
                     "amount": 3000,
-                    "percentage": "10.00"
+                    "percentage": "10.00",
+                    "createdDate": "2024-09-01T10:00:00",
+                    "createdUser": "admin",
+                    "lastUpdatedDate": "2024-09-01T10:00:00",
+                    "lastUpdatedUser": "admin"
                 }
             ],
             "date": "2024-09-01"
@@ -28,14 +36,22 @@
                     "item": "Agua",
                     "description": "Consumo de agua general del edificio.",
                     "amount": 2500,
-                    "percentage": "8.33"
+                    "percentage": "8.33",
+                    "createdDate": "2024-09-01T10:00:00",
+                    "createdUser": "admin",
+                    "lastUpdatedDate": "2024-09-01T10:00:00",
+                    "lastUpdatedUser": "admin"
                 },
                 {
                     "id": 4,
                     "item": "Mantenimiento de Ascensores",
                     "description": "Revisión y reparación de ascensores.",
                     "amount": 4000,
-                    "percentage": "13.33"
+                    "percentage": "13.33",
+                    "createdDate": "2024-09-01T10:00:00",
+                    "createdUser": "admin",
+                    "lastUpdatedDate": "2024-09-01T10:00:00",
+                    "lastUpdatedUser": "admin"
                 }
             ],
             "date": "2024-09-01"
@@ -48,14 +64,22 @@
                     "item": "Jardinería",
                     "description": "Cuidado y mantenimiento de jardines y áreas verdes.",
                     "amount": 2000,
-                    "percentage": "6.67"
+                    "percentage": "6.67",
+                    "createdDate": "2024-09-01T10:00:00",
+                    "createdUser": "admin",
+                    "lastUpdatedDate": "2024-09-01T10:00:00",
+                    "lastUpdatedUser": "admin"
                 },
                 {
                     "id": 6,
                     "item": "Limpieza",
                     "description": "Servicios de limpieza en áreas comunes.",
                     "amount": 3000,
-                    "percentage": "10.00"
+                    "percentage": "10.00",
+                    "createdDate": "2024-09-01T10:00:00",
+                    "createdUser": "admin",
+                    "lastUpdatedDate": "2024-09-01T10:00:00",
+                    "lastUpdatedUser": "admin"
                 }
             ],
             "date": "2024-09-01"
